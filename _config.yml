@@ -18,7 +18,7 @@ timezone: Australia/Melbourne
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Warren Vella .me                          # the main title
+title: Warren Vella.me                          # the main title
 
 tagline: Loves connecting things, whiteboards and architecture. Appreciates drams.  # it will display as the sub-title
 
@@ -82,7 +82,7 @@ theme_mode:   dark # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: warrenvella.me.avatar.png
+avatar: assets/img/warrenvella.me.avatar.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
