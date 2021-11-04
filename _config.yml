@@ -23,9 +23,7 @@ title: Warren Vella.me                          # the main title
 tagline: Loves connecting things, whiteboards and architecture. Appreciates drams.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  A blog about me talking all things integration and lots of drawings.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://warrenvella.me'
@@ -39,12 +37,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Warren Vella
   email: example@doamin.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/wvella      # change to your twitter homepage
+    - https://github.com/wvella       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
