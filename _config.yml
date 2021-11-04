@@ -18,9 +18,9 @@ timezone: Australia/Melbourne
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Warren Vella                          # the main title
+title: Warren Vella.me                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Loves connecting things, whiteboards and architecture. Appreciates drams.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
